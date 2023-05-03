@@ -1,0 +1,36 @@
+body{
+  background-color: #566981;
+  color: aliceblue;
+}
+
+label{
+  display: flex;
+  justify-content: left;
+}
+
+.container-login{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.login{
+  width: 100%;
+  max-width: 330px;
+  text-align: center;
+}
+
+.img-login{
+  width: 50%;
+}
+
+#boton1 {
+  background-color: #339999;
+  color: white;
+}
+
+#boton2 {
+  background-color: #ff3b58;
+  color: white;
+}
